@@ -9,12 +9,14 @@
 - CryEngine
 - Roblox
 
-Hi,👋 I am a game developer who has 7 years of experience using Unity and the Unreal Engine.
-I 
-* PC & Console & Mobile
+Hi,👋 I am a game developer who has 7 years of experience using Unity and Unreal Engine.
+
+I excel at
+* PC & Console & Mobile Platforms
 * Single, Muliplayer and Online Game
 * Action, Adventure, Casual, First Persion, Third Persion, Platformer, RPG, Surival, Shooting
 * Game Backend Platforms and Distribution Services
+* Strong Blockchain Architecture
 
 ## Github Stats
 <p align = "center">
@@ -28,7 +30,7 @@ I
 
 ## <p align="center">😇 Contact Me 😇</p>
   <div align="center"> 
-   <a href="mailto:prideofguardian0607@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
+  <a href="mailto:prideofguardian0607@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
   &nbsp;&nbsp;
   <a href="https://join.skype.com/live:.cid.79df4b823f1ab289" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
   &nbsp;&nbsp;
