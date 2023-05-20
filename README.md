@@ -19,17 +19,12 @@ I excel at
 * Strong Blockchain Architecture
 
 
-## <p align="center">😇 Contact Me 😇</p>
-  <div align="center"> 
-  <a href="mailto:prideofguardian0607@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
-  &nbsp;&nbsp;
-  <a href="https://join.skype.com/live:.cid.79df4b823f1ab289" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/wolfofRome0607" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
-  &nbsp;&nbsp;
-  <a href="https://discord.gg/wolfofRome#1235" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
-  &nbsp;&nbsp;
-  <!-- <a href="" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/whatsapp.png"  width="40" />+1 213 985 0522</a>
-  &nbsp;&nbsp; -->
-  </div>
-</div>
+***📫 How to reach me ...***
+
+My email: prideofguardian0607@gmail.com
+
+Skype: live:.cid.79df4b823f1ab289
+
+Discord: wolfofRome#1235
+
+Telegram: wolfofRome0607
