@@ -23,6 +23,3 @@ I excel at
 
 My email: prideofguardian0607@gmail.com
 
-Skype: live:.cid.79df4b823f1ab289
-
-Discord: wolfofRome#1235
