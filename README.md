@@ -9,7 +9,7 @@
 - CryEngine
 - Roblox
 
-Hi,👋 I am a game developer who has 7 years of experience using Unity and Unreal Engine.
+Hi,👋 I am a game developer who has 8 years of experience using Unreal Engine and Unity.
 
 I excel at
 * PC & Console & Mobile Platforms
