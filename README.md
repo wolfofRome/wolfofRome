@@ -19,7 +19,4 @@ I excel at
 * Strong Blockchain Architecture
 
 
-***📫 How to reach me ...***
-
-
 
