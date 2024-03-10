@@ -21,5 +21,5 @@ I excel at
 
 ***📫 How to reach me ...***
 
-My email: prideofguardian0607@gmail.com
+
 
