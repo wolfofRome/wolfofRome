@@ -4,10 +4,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-- Unity
 - Unreal Engine
-- CryEngine
-- Roblox
+- Unity
 
 Hi,👋 I am a game developer who has 8 years of experience using Unreal Engine and Unity.
 
