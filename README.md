@@ -1,10 +1,8 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Unreal Engine Gameplay Developer | Unity Programmer | Performance Optimization
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  🎮Unreal Engine Gameplay Developer | Unity Programmer | Performance Optimization
 </h1>
 
-Greetings! 🎮🎮🎮🎮🎮
+Greetings!
 You know those games that feel smooth, responsive, and immersive?
 
 Gameplay Engineer specializing in Unreal Engine and Unity, with experience building gameplay systems, multiplayer features, AI, and scalable game architecture.
