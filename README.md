@@ -1,5 +1,5 @@
 <h1 align="center">
-  🎮 Unreal Engine Gameplay Developer | 🎮 Unity Programmer | Performance Optimization
+  🎮 Unreal Engine Gameplay Developer | 🎮 Unity Programmer && Performance Optimization
 </h1>
 
 Greetings!
