@@ -11,8 +11,8 @@ My work focuses on designing systems that are modular, maintainable, and built t
 
 🎮 Unreal Engine Expertise
 Gameplay Programming
-🔹C++ and Blueprint development
-🔹FPS, TPS, Action, Horror, RPG, and Metaverse
+* C++ and Blueprint development
+* FPS, TPS, Action, Horror, RPG, and Metaverse
 🔹Plugin Development
 Multiplayer Networking
 🔹Replication
