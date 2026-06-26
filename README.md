@@ -35,7 +35,7 @@ My work focuses on designing systems that are modular, maintainable, and built t
 * VR game development
 * Technical level design
 
-## 🎲 Unity Expertise
+## 🎮 Unity Expertise
 Gameplay Development
 * C# gameplay programming
 * Custom gameplay systems and architecture
@@ -51,6 +51,21 @@ Gameplay Development
 ## UI & Optimization
 * UI/UX systems
 * Debugging and Performance tuning
+
+## Languages & Engines
+
+### Engines
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white)
+
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+
+### Tools & Tech
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Perforce](https://img.shields.io/badge/Perforce-404040?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## ✅ What You Can Expect
 * Clean, scalable, and maintainable code
