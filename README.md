@@ -10,27 +10,27 @@ Gameplay Engineer specializing in Unreal Engine and Unity, with experience build
 My work focuses on designing systems that are modular, maintainable, and built to support long-term development. I enjoy solving technical challenges at the intersection of gameplay programming, networking, and engine architecture, helping projects evolve from prototypes into production-ready games.
 
 ## 🎮 Unreal Engine Expertise
-## Gameplay Programming
+### Gameplay Programming
 * C++ and Blueprint development
 * FPS, TPS, Action, Horror, RPG, and Metaverse
 *Plugin Development
-## Multiplayer Networking
+### Multiplayer Networking
 * Replication
 * Dedicated server architecture
 * Online features and synchronization
-## AI Systems
+### AI Systems
 * Behavior/State Trees
 * AI Perception
 * Third-party AI integration
-## Animation Systems
+### Animation Systems
 * Hybrid animation pipelines
 * Procedural animation and Blending
 * Control Rig and IK systems
-## Performance & Optimization
+### Performance & Optimization
 * Modular gameplay framework
 * GPU instancing
 * Profiling and debugging
-## Additional Expertise
+### Additional Expertise
 * MetaHuman customization
 * VR game development
 * Technical level design
@@ -39,16 +39,16 @@ My work focuses on designing systems that are modular, maintainable, and built t
 Gameplay Development
 * C# gameplay programming
 * Custom gameplay systems and architecture
-## Multiplayer
+### Multiplayer
 * Architecture for MMORPG
 * Network synchronization
-## AI & Systems
+### AI & Systems
 * AI behaviors
 * Procedural generation
-## Mobile / XR
+### Mobile / XR
 * Android/iOS game development
 * AR/VR applications
-## UI & Optimization
+### UI & Optimization
 * UI/UX systems
 * Debugging and Performance tuning
 
@@ -65,7 +65,6 @@ Gameplay Development
 ### Tools & Tech
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Perforce](https://img.shields.io/badge/Perforce-404040?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## ✅ What You Can Expect
 * Clean, scalable, and maintainable code
